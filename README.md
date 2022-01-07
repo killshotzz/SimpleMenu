@@ -31,6 +31,7 @@ Version 1.0:*
 
 ## Credits
 * Alextheregent (https://github.com/AlexTheRegent)
+* Teamkiller324 (https://github.com/Teamkiller324)
 * Myself
 
 
